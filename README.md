@@ -2,6 +2,10 @@
 
 This repo contains the implementation of the 'CrossNet++: Cross-Scale Large-Parallax Warping for Reference-Based Super-Resolution'. The improvements include multistage warping, keypoint guidence as well as extend real-world training set using hikvision dual camera.
 
+This is a project from LuVision SIGMA, Tsinghua University. Visit our website for more interesting works: http://www.luvision.net/
+
+## License
+This project is released under the [GPLv3 license](LICENSE). We only allow free use for academic use. For commercial use, please contact us to negotiate a different license by: `fanglu at tsinghua.edu.cn`
 
 ## Usage
 
