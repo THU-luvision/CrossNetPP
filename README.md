@@ -17,7 +17,7 @@ conda env create -f env.yaml
 
 ### Download pretrained_models
 
-1. download pretrained_models from [TSCloud](https://cloud.tsinghua.edu.cn/d/98f87f0a2e894c7d9ddc/)
+1. download pretrained_models from [OneDrive]([https://cloud.tsinghua.edu.cn/d/98f87f0a2e894c7d9ddc/](https://hkustconnect-my.sharepoint.com/:f:/g/personal/xyuanag_connect_ust_hk/EsTZnRDOw3dLngH83nHb8zoBLWfYlJ-id1s_Y9xRSsDeqA?e=N51bAZ))
 2. move downloaded pretrained_models into source root
     ```
     - evalutation
